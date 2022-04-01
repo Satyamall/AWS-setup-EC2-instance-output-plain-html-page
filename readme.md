@@ -59,3 +59,5 @@ Use local Machine for handle
 - ctrl + X
 - refresh the Public IPv4 address in browser.
 
+# Pictorial View:
+ ![Screenshot (393)](https://user-images.githubusercontent.com/80479635/161292757-4e3b20cc-0d5e-4b21-9088-4f44ab1c4fe8.png)
